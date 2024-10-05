@@ -24,6 +24,9 @@ const CardList = ({allCard , setAllCard}) => {
         })} */}
 
 
+        <h2>test2</h2>
+
+
 
 
         <Card allCard={allCard} setAllCard={setAllCard}/>
